@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CalculatorByPankajkCodes</string>
+    <string name="plus">+</string>
+    <string name="min">-</string>
+    <string name="multi">*</string>
+    <string name="div">/</string>
+    <string name="clr">CLr</string>
+    <string name="per">Power</string>
+    <string name="calculatorbypankajkcodes">CalculatorByPankajkcodes</string>
+    <string name="enter_second_number">Enter Second Number</string>
+    <string name="result">Result !! </string>
+    <string name="enter_first_number">Enter First Number</string>
+</resources>
